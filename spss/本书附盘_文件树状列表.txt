@@ -1,0 +1,52 @@
+本书附盘中按文件列表的文件及文件涉及的相应章号
+
+附盘:.
+│  bcount.sav                                   ⑺
+│  Clu3-Mean.sav                                ⑷
+│  Corresp_1.sav                                ⒂
+│  Corresp_2.sav                                ⒂
+│  couples.sav                                  ⑻
+│  discriminant.sav                             ⑽
+│  FP_SE.sav                                    ⑾
+│  index1990.sav                                ⑷
+│  interval.sav                                 ⒀
+│  job-change.sav                               ⒀
+│  MANOVA24.sav                                 ⑴、⑼
+│  OLD_1992.sav                                 ⑹
+│  PopSample2000.sav                            ⑴
+│  promotion.sav                                ⒀
+│  province1990.sav                             ⑶
+│  rh2001.sav                                   ⑺
+│  sex-take.sav                                 ⑻
+│  STUD1000.sav                                 ⑿
+│  STUD_30.SAV                                  ⑿
+│  survival.sav                                 ⒀
+│  WPDS2013.sav                                 ⑴、⑵                               
+│  cancorr-spss.sps                             ⑾
+│  Corresp_2.sps                                ⒂
+│  job_EX7_3TDC.sps                             ⒀
+│  Durbin-Watson Test Table.xlsx                ⑵
+│  
+├─BPYdata_SPSS                                 ⒁
+│      Final fertility person-year data.sav
+│      Long_data.sav
+│      RH2001_生育人年转换-ceb_y.sps
+│      Wide_data.sav
+│      
+└─EHA_SPSS                                     ⒁
+        EX1.dat
+        EX1.sav
+        Ex1.sps
+        EX2.dat
+        Ex2.sps
+        Ex3.sps
+        EX4.dat
+        Ex4.sps
+        EX5.dat
+        Ex5.sps
+        FINAL.sav
+        OUT1
+        TEM1
+        TEM2
+        TEM3
+        TEM4
